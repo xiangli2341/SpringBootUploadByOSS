@@ -1,0 +1,17 @@
+.idea/
+springboot.log
+target/
+*.classpath
+*.prefs
+.settings/
+.project
+springboot.log.1
+*.2
+springboot.log.3
+springboot.log.4
+springboot.log.5
+springboot.log.6
+springboot.log.7
+/spring-boot-file-upload.iml
+/src/test/
+/target/
