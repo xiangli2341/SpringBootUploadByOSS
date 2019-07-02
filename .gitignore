@@ -12,6 +12,6 @@ springboot.log.4
 springboot.log.5
 springboot.log.6
 springboot.log.7
-/spring-boot-file-upload.iml
+/*.iml
 /src/test/
 /target/
